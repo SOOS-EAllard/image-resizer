@@ -6,5 +6,4 @@ orbs:
 workflows:
   main:
     jobs:
-      - soos/sca-analysis:
-          project_name: "Cool Project"
+      - soos/sca-analysis
