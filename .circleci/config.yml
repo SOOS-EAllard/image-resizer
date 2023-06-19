@@ -7,4 +7,4 @@ workflows:
   main:
     jobs:
       - soos/sca-analysis:
-          project_name: "Eric's Cool Project"
+          project_name: "Cool Project"
